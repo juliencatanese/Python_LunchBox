@@ -19,12 +19,13 @@ Julien Catanese
 
 ## Project Structure
 
-├── data/                                       
-│ ------------ ├── <data_file1>.csv                   
-│ -------------└── <data_file2>.xlsx
+├──Folder data/                                       
+│ ------------ ├──file data_1.csv                   
+│ -------------└──file data_2.csv
+│ -------------└──file data_3.xlsx
 
-├── notebooks/         
-│ ------------- └── EDA.ipynb       
+├──Folder notebooks/         
+│ ------------- └──file EDA.ipynb  (pyhton code)     
 
 ├── README.md         
 
