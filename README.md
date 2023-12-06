@@ -21,8 +21,10 @@ Julien Catanese
 ├── data/               
 │   ├── <data_file1>.csv
 │   └── <data_file2>.xlsx
+
 ├── notebooks/         
 │   └── EDA.ipynb       
+
 ├── README.md         
 
 
