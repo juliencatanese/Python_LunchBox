@@ -18,13 +18,13 @@ Julien Catanese
 - Libraries: (List libraries used for analysis, e.g., Pandas, NumPy, Matplotlib, Seaborn)
 
 ## Project Structure
-├── data/               # Directory to store data files
+├── data/               
 │   ├── <data_file1>.csv
 │   └── <data_file2>.xlsx
-├── notebooks/          # Jupyter notebooks for analysis
-│   └── EDA.ipynb       # Main EDA notebook
-├── README.md           # Project README file
-└── requirements.txt    # List of required libraries
+├── notebooks/         
+│   └── EDA.ipynb       
+├── README.md         
+
 
 ## UTILISATION 
 Launch Jupyter Notebook:
