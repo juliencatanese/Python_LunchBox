@@ -18,12 +18,13 @@ Julien Catanese
 - Libraries: (List libraries used for analysis, e.g., Pandas, NumPy, Matplotlib, Seaborn)
 
 ## Project Structure
+
 ├── data/                                       
-│             ├── <data_file1>.csv                   
-│             └── <data_file2>.xlsx
+│ ------------ ├── <data_file1>.csv                   
+│ -------------└── <data_file2>.xlsx
 
 ├── notebooks/         
-│             └── EDA.ipynb       
+│ ------------- └── EDA.ipynb       
 
 ├── README.md         
 
