@@ -21,7 +21,7 @@ Julien Catanese
 
 ├──Folder data/                                       
 │ ------------ ├──file data_1.csv                   
-│ -------------└──file data_2.csv
+│ -------------└──file data_2.csv                          
 │ -------------└──file data_3.xlsx
 
 ├──Folder notebooks/         
