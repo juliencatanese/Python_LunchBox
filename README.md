@@ -37,8 +37,4 @@ Open the EDA.ipynb notebook and run the cells to execute the analysis.
 ## License
 This project is licensed under MIT license. See the LICENSE file for details.
 
-## Acknowledgments
-I acknowledgments datascientest.com for providing the data and inspiration for this example EDA project.
-Feel free to fork, modify, and use this project as per the license.
-
 If you have any suggestions, improvements, or issues, please create an issue or pull request. Contributions are welcomed!
